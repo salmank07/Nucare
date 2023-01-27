@@ -24,6 +24,9 @@
 .navbar a {
     cursor: pointer;
 }
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #10c98f;
+}
 
 @media (max-width: 500px) {
     .navbar {
